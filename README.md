@@ -12,6 +12,6 @@ h1>Hi, I'm James, an <a href="https://linkedin.com/in/">IT Professional</a></h1>
 
 
 <h2>LinkedIn:</h2>
-[<img align="left" alt="James | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="James | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
 
 [linkedin]: https://linkedin.com/in/
